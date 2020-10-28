@@ -1,4 +1,8 @@
 import { createApp } from 'vue'
 import App from './App.vue'
+import VueQr from 'vue-qr'
 
-createApp(App).mount('#app')
+const Vue = createApp(App);
+Vue.use(VueQr)
+
+Vue.mount('#app');
