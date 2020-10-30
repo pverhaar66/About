@@ -70,7 +70,7 @@
     <div class="card card-body">
       <div class="row">
         <div class="col-12">
-          <h2>Social</h2>
+          <h2>Socials:</h2>
         </div>
         <div class="mt-3 col-12 col-md-12 col-lg-6 col-xl-6">
           <p>STEAM:</p>
