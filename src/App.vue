@@ -1,5 +1,10 @@
 <template>
-   <homepage/>
+  <div class="row">
+    <div class="navbar col-12">
+
+    </div>
+  </div>
+  <homepage />
 </template>
 
 <script>

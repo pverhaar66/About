@@ -61,6 +61,12 @@
    border-radius: 10px;
  }
 
- .block{
+ .block {
    display: block;
+ }
+
+ @media only screen and (max-width: 480px) {
+   .hideMobile {
+     display: none;
+   }
  }
