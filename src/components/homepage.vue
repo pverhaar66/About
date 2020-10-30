@@ -1,12 +1,16 @@
 <template>
   <div class="container-fluid">
+    <!-- Favourites -->
     <div class="row">
-      <div class="mt-3 col-12 col-md-12 col-lg-6 col-xl-6">
+      <div class="mt-3 col-12 col-md-12 col-lg-12 col-xl-12">
         <p>Favourite Anime</p>
         <div class="row">
-          <div class="col-6"><img src="" alt="bleach"></div><div class="col-6">Bleach</div>
-          <div class="col-6"><img src="" alt="Sidonia no kishi"></div><div class="col-6">Bleach</div>
-          <div class="col-6"><img src="" alt="That Time I Got Reincarnated as a Slime"></div><div class="col-6">That Time I Got Reincarnated as a Slime</div>
+          <div class="col-2"><img height="200" width="142" src="../images/BleachIMG.jpg" alt="bleach"></div>
+          <div class="col-2"><img height="200" width="142" src="../images/sidonianokishiImg.jpg" alt="Sidonia no kishi"></div>
+          <div class="col-2"><img height="200" width="142" src="../images/slimereincarnation.jpg" alt="That Time I Got Reincarnated as a Slime"></div>
+          <div class="col-2"><img height="200" width="142" src="../images/SAOALICE.jpg" alt="That Time I Got Reincarnated as a Slime"></div>
+          <div class="col-2"><img height="200" width="142" src="../images/lelouchr2.jpg" alt="That Time I Got Reincarnated as a Slime"></div>
+          <div class="col-2"><img height="200" width="142" src="../images/IRREGULAR.jpg" alt="That Time I Got Reincarnated as a Slime"></div>
         </div>
       </div>
       <div class="mt-3 col-12 col-md-12 col-lg-6 col-xl-6">
